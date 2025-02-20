@@ -42,15 +42,13 @@ I'm a passionate software developer with a knack for creating efficient and scal
 
 ## Projects
 
-### Project 1: Awesome Web App
-- **Description:** A full-stack web application that allows users to track their tasks and manage their time effectively.
-- **Technologies:** React, Node.js, MongoDB, Docker
-- **GitHub Repository:** [Awesome Web App](https://github.com/your-username/awesome-web-app)
+### Project 1: estore 
+- **Description:** Built a full-stack e-commerce store using React, Express.js, and MongoDB. Designed with a component-driven architecture for
+improved performance and scalability, it features secure user authentication, real-time order tracking, and a responsive UI optimized for
+smooth shopping experiences.
+- **Technologies:** React, Node.js,ExpressJs, MongoDB
+- **GitHub Repository:** (https://github.com/Pervaiz-Sarfraz/mernestore)
 
-### Project 2: Cloud Infrastructure Automation
-- **Description:** Automated deployment scripts for cloud infrastructure using Terraform and Ansible.
-- **Technologies:** AWS, Terraform, Ansible
-- **GitHub Repository:** [Cloud Infrastructure Automation](https://github.com/your-username/cloud-infrastructure-automation)
 
 ## Get In Touch
 
