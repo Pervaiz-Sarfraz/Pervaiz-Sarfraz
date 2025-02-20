@@ -1,43 +1,65 @@
-````markdown name=README.md
 # Hi there, I'm Pervaiz Sarfraz 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in learning new technologies and solving challenging problems. Here's a bit about me:
+## About Me
 
-## 🚀 About Me
+I'm a passionate software developer with a knack for creating efficient and scalable solutions. I have a strong background in full-stack development and a keen interest in the latest technology trends.
 
-- 🔭 I’m currently working on various open-source projects
-- 🌱 I’m currently learning advanced concepts in Machine Learning and AI
-- 👯 I’m looking to collaborate on innovative projects and open-source contributions
-- 🤔 I’m looking for help with mastering cloud-native technologies
-- 💬 Ask me about anything related to backend development, DevOps, and cloud computing
-- 📫 How to reach me: pervaiz.sarfraz@example.com
-- ⚡ Fun fact: I love hiking and exploring nature in my free time
+- 🔭 I’m currently working on exciting projects involving web development and cloud computing.
+- 🌱 I’m always learning and currently focusing on enhancing my skills in DevOps and machine learning.
+- 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
+- 🤔 I’m looking for help with contributing to community-driven projects.
+- 💬 Ask me about anything related to web development, cloud computing, and best coding practices.
+- 📫 How to reach me: [Email](mailto:pervaizsarfraz155@gmail.com) | [LinkedIn](https://www.linkedin.com/in/muhammad-pervaiz-157888168/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love hiking and exploring the great outdoors.
 
-## 🛠️ Languages and Tools
+## Skills
 
-- Programming Languages: Python, JavaScript, Java, C++
-- Web Development: HTML, CSS, React, Node.js
-- Database Systems: MySQL, PostgreSQL, MongoDB
-- DevOps Tools: Docker, Kubernetes, Jenkins, GitHub Actions
-- Cloud Platforms: AWS, Azure, Google Cloud
+### Languages
 
-## 📊 GitHub Stats
+- JavaScript
+- Python
+- Java
+- C#
 
-![Pervaiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pervaiz-Sarfraz&show_icons=true&theme=radical)
+### Frameworks & Libraries
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pervaiz-Sarfraz&layout=compact&theme=radical)
+- React
+- Svelte
+- Node.js
+- Express Js
 
-## 🏆 GitHub Trophies
+### Tools & Platforms
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Pervaiz-Sarfraz&theme=radical)
+- Jenkins
+- Git & GitHub
 
-## 📫 Connect with Me
+### Databases
 
-- [LinkedIn](https://www.linkedin.com/in/pervaiz-sarfraz)
-- [Twitter](https://twitter.com/PervaizSarfraz)
-- [Personal Website](https://pervaizsarfraz.dev)
+- MySQL
+- PostgreSQL
+- MongoDB
 
-Thanks for visiting my profile! Have a great day 😊
+## Projects
 
-_Last updated on 2025-02-20 17:29:27 (UTC)_
-````
+### Project 1: Awesome Web App
+- **Description:** A full-stack web application that allows users to track their tasks and manage their time effectively.
+- **Technologies:** React, Node.js, MongoDB, Docker
+- **GitHub Repository:** [Awesome Web App](https://github.com/your-username/awesome-web-app)
+
+### Project 2: Cloud Infrastructure Automation
+- **Description:** Automated deployment scripts for cloud infrastructure using Terraform and Ansible.
+- **Technologies:** AWS, Terraform, Ansible
+- **GitHub Repository:** [Cloud Infrastructure Automation](https://github.com/your-username/cloud-infrastructure-automation)
+
+## Get In Touch
+
+Feel free to reach out if you have any questions or if you just want to connect!
+
+- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammad-pervaiz-157888168/))
+- [Email](mailto:pervaizsarfraz155@gmail.com)
+- [GitHub](https://github.com/Pervaiz-Sarfraz)
+
+---
+
+⭐️ From [Pervaiz Sarfraz](https://github.com/Pervaiz-Sarfraz)
