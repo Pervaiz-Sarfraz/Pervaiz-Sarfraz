@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React,React Native, Next.js, Node.js**
 
-- 📫 Reach me at **ahmadpiracha3@gmail.com**
+- 📫 Reach me at **pervaizsarfraz155@gmail.com**
 
 - 📄 Learn more about my experiences at [pervaizsarfraz.netlify.app](https://pervaizsarfraz.netlify.app)
 
@@ -73,21 +73,9 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 </a>
 
-<!-- Mobile Development -->
-<a href="https://reactnative.dev/" target="_blank">
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-</a>
-<a href="https://expo.dev/" target="_blank">
-  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white">
-</a>
-
 <!-- Frontend Frameworks/Libraries -->
 <a href="https://tailwindcss.com/" target="_blank">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-</a>
-
-<a href="https://material-ui.com/" target="_blank">
-  <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
 </a>
 
 <a href="https://getbootstrap.com/" target="_blank">
@@ -128,7 +116,7 @@
 ## Github Stats &nbsp;📊
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=ahmadpiracha&show_icons=true&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api?username=Pervaiz-Sarfraz&show_icons=true&theme=github_dark">
 </p>
 <hr>
 
