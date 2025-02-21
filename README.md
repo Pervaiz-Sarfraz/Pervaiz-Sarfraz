@@ -111,7 +111,8 @@
 <br>
 <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadpiracha&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
 
-<hr><br>
+<hr>
+<br>
 
 ## Github Stats &nbsp;📊
 <br>
@@ -123,11 +124,11 @@
 ## Most Used Languages 📚
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ahmadpiracha&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pervaiz-Sarfraz&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
 </p>
 
 ------
-Credit: [Ahmad Piracha](https://github.com/ahmadpiracha)
+Credit: [Ahmad Piracha](https://github.com/Pervaiz-Sarfraz)
 
 Last Edited on: 01/01/2024&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 
@@ -136,27 +137,25 @@ Last Edited on: 01/01/2024&label=Profile%20views&color=0047AB&style=plastic?" al
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 Explore my projects at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
+- 👨‍💻 Explore my projects at [pervaizsarfraz.netlify.app](https://pervaizsarfraz.netlify.app)
 
 - 💬 Ask me about **React,React Native, Next.js, Node.js**
 
 - 📫 Reach me at **ahmadpiracha3@gmail.com**
 
-- 📄 Learn more about my experiences at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
+- 📄 Learn more about my experiences at [pervaizsarfraz.netlify.app](https://pervaizsarfraz.netlify.app)
 
 
 ### Connect with me 🔗 :
-<a href="https://github.com/ahmadpiracha/">
+<a href="https://github.com/pervaizsarfraz/">
 <img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff"></a> 
-<a href="https://www.linkedin.com/in/ahmad-waseem-piracha/">
+<a href="https://www.linkedin.com/in/muhammad-pervaiz-157888168/">
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff"></a>
-<a href="https://x.facebook.com/ahmadwaseempiracha">
+<a href="https://web.facebook.com/ChPervaizSarfraz">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=ffffff"></a>
-<a href="https://twitter.com/ahmadpiracha3">
+<a href="https://x.com/PervaizSarfraz">
 <img src="https://img.shields.io/badge/Twitter-08A0E9?style=for-the-badge&logo=Twitter&logoColor=ffffff"></a>  
-<a href="https://www.instagram.com/ahmadpiracha/">
-<img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=ffffff"></a>
-<a href="mailto:ahmadpiracha3@gmail.com" target="_blank">
+<a href="mailto:pervaizsarfraz155@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <br><br>
@@ -246,24 +245,24 @@ Last Edited on: 01/01/2024&label=Profile%20views&color=0047AB&style=plastic?" al
 
 ## Github Contribution Streak 🔥 
 <br>
-<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadpiracha&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
+<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=pervaizsarfraz&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
 
 <hr><br>
 
 ## Github Stats &nbsp;📊
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=ahmadpiracha&show_icons=true&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api?username=pervaizsarfraz&show_icons=true&theme=github_dark">
 </p>
 <hr>
 
 ## Most Used Languages 📚
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ahmadpiracha&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pervaizsarfraz&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
 </p>
 
 ------
-Credit: [Ahmad Piracha](https://github.com/ahmadpiracha)
+Credit: [Pervaiz Sarfraz](https://github.com/Pervaiz-Sarfraz)
 
 Last Edited on: 01/01/2024
