@@ -11,7 +11,7 @@
 
 - 👨‍💻 Explore my projects at [pervaizsarfraz.netlify.app](https://pervaizsarfraz.netlify.app)
 
-- 💬 Ask me about **React,Svelte, Express Js, Node.js**
+- 💬 Ask me about **React,Svelte,Django, Express Js, Node.js**
 
 - 📫 Reach me at **pervaizsarfraz155@gmail.com**
 
