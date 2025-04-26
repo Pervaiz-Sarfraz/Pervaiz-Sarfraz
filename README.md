@@ -116,9 +116,9 @@
 ## Most Used Languages 📚
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ahmadpiraPervaiz-Sarfrazcha&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ahmadpiracha&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
 </p>
 
 Credit: [Pervaiz Sarfraz](https://github.com/Pervaiz-Sarfraz)
 
-Last Edited on: 21/02/2025
+Last Edited on: 26/04/2025
